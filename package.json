@@ -1,0 +1,23 @@
+{
+  "name": "@ziro/object-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziro-app/objectToArray.git"
+  },
+  "author": "Ahmad Forhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziro-app/objectToArray/issues"
+  },
+  "homepage": "https://github.com/ziro-app/objectToArray#readme",
+  "devDependencies": {
+    "ava": "^3.4.0"
+  }
+}
